@@ -1,0 +1,8 @@
+{
+  "name": "50 Billion Dollar Empire",
+  "description": "An immersive text-based strategy simulation where you wield $50,000,000,000 to shape the future of humanity through four levels of civilizational development.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
